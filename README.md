@@ -23,6 +23,7 @@ If no location is specified, the program defaults to Bangalore.
 ### Example
 ```bash
 go run main.go Mumbai
+```
 ### API Key
 The program uses the WeatherAPI to fetch the weather data. Make sure to replace the `apiKey` variable in the code with your own WeatherAPI key. You can get a free key by signing up at [WeatherAPI](https://www.weatherapi.com/signup.aspx).
 
